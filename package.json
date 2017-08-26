@@ -1,0 +1,10 @@
+{
+  "name": "babel-plugin-transform-brazil-emoji",
+  "version": "0.0.1",
+  "description": "replace word Brazil with emoji",
+  "license": "Apache 2.0",
+  "main": "index.js",
+  "keywords": [
+    "babel-plugin"
+  ]
+}
